@@ -61,7 +61,7 @@ Manipulations réalisées :
 
 Ces manipulations permettent de reproduire les opérations courantes réalisées par un technicien support lors de l'arrivée, de la modification ou du départ d'un collaborateur.
 
-CLiquez ici : [Pt 1 Présentation de l’environnement Microsoft 365.png]
+CLiquez ici : [[Pt 1 Présentation de l’environnement Microsoft 365.png]](https://github.com/MamadouSackoIT/microsoft-365-entra-lab/blob/main/Pt%201%20Pr%C3%A9sentation%20de%20l%E2%80%99environnement%20Microsoft%20365.png)
 
 ---
 
