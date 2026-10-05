@@ -88,6 +88,8 @@ Le diagnostic a permis d'identifier :
 
 Après attribution d'une licence contenant **Exchange Online**, la boîte aux lettres de Lucas a été provisionnée et l'accès à Outlook a été validé.
 
+Cliquez ici : https://github.com/MamadouSackoIT/microsoft-365-entra-lab/blob/main/Pt%202%20Gestion%20des%20utilisateurs%20Microsoft%20365.png
+
 ---
 
 # 📧 3. Administration Exchange Online
@@ -107,6 +109,8 @@ Configuration de droits permettant à un utilisateur autorisé :
 - d'envoyer des messages au nom de la boîte.
 
 Les permissions **Full Access** et **Send As** ont été étudiées.
+
+Cliquez ici : https://github.com/MamadouSackoIT/microsoft-365-entra-lab/blob/main/Pt%203%20Gestion%20des%20licences%20Microsoft%20365.png
 
 ---
 
@@ -151,6 +155,8 @@ Manipulations réalisées :
 - Gestion des appareils
 - Mise en place de stratégies d'accès conditionnel
 
+Cliquez ici : https://github.com/MamadouSackoIT/microsoft-365-entra-lab/blob/main/Pt%204Guide%20Exchange%20Online%20_%20bo%C3%AEtes%20et%20d%C3%A9l%C3%A9gations.png
+
 ---
 
 # 👥 5. Groupes de sécurité
@@ -166,6 +172,8 @@ Type :
 **Security / Assigned**
 
 Les utilisateurs sont ajoutés manuellement au groupe.
+
+Cliquez ici : https://github.com/MamadouSackoIT/microsoft-365-entra-lab/blob/main/Pt%205%20Guide%20d%E2%80%99administration%20Microsoft%20Entra%20ID.png
 
 ---
 
@@ -206,6 +214,8 @@ Un scénario de **changement/perte de téléphone** a notamment été simulé.
 
 L'ancienne méthode d'authentification a été supprimée puis Microsoft Authenticator a été enregistré de nouveau.
 
+Cliquez ici : https://github.com/MamadouSackoIT/microsoft-365-entra-lab/blob/main/Pt%206.1%20Guide%20MFA%20Microsoft%20Entra%20_%20configuration%20et%20r%C3%A9initialisation.png
+
 ---
 
 # 👮 7. Rôles administratifs et moindre privilège
@@ -227,6 +237,8 @@ L'opération a été refusée en raison du niveau de privilège insuffisant.
 Cela permet d'illustrer le principe :
 
 > Un technicien doit disposer uniquement des permissions nécessaires à ses missions.
+
+Cliquez ici : https://github.com/MamadouSackoIT/microsoft-365-entra-lab/blob/main/Pt%207%20Groupes%20Entra%20et%20contr%C3%B4le%20des%20acc%C3%A8s.png
 
 ---
 
@@ -253,6 +265,8 @@ Cette manipulation a permis d'étudier les différences entre :
 - Microsoft Entra Hybrid Joined
 
 Elle permet également de comprendre la différence entre un environnement **Active Directory local** et un environnement d'identité **cloud Microsoft Entra ID**.
+
+Cliquez ici : https://github.com/MamadouSackoIT/microsoft-365-entra-lab/blob/main/8%20Moindre%20privil%C3%A8ge%20dans%20Entra%20ID.png et https://github.com/MamadouSackoIT/microsoft-365-entra-lab/blob/main/8.1%20R%C3%A9initialisation%20du%20mot%20de%20passe%20dans%20Entra.png
 
 ---
 
@@ -289,6 +303,8 @@ Exemple :
 **Windows → MFA**
 
 La stratégie a ensuite été observée dans les journaux en mode **Report-only**.
+
+Cliquez ici : https://github.com/MamadouSackoIT/microsoft-365-entra-lab/blob/main/9%20Gestion%20des%20appareils%20Microsoft%20Entra%20expliqu%C3%A9e.png
 
 ---
 
